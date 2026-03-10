@@ -8,9 +8,10 @@ Floats are decimal numbers. They can be **positive** or **negative**.
 * Example (Positive): `pi = 3.14`
 * Example (Negative): `temperature = -10.5`
 
-> **Note:** Python treats `-5.0` as a **float**, even if it looks like a whole number. 
-> Because it has a dot!
-> ## Code Examples
+>   **Note:** Python treats `-5.0` as a **float**, even if it looks like a whole number. 
+>   Because it has a dot!
+>
+> # Code Examples
 > Here are the code snippets from today:
 > print(2+2) = 4
 > type(2) = int or type(3.7) = float
