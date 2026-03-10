@@ -8,7 +8,7 @@ Floats are decimal numbers. They can be **positive** or **negative**.
 * Example (Positive): `pi = 3.14`
 * Example (Negative): `temperature = -10.5`
 
->   **Note:** Python treats `-5.0` as a **float**, even if it looks like a whole number. 
+>   *Note: Python treats `-5.0` as a *float, even if it looks like a whole number. 
 >   Because it has a dot!
 >
 > # Code Examples
